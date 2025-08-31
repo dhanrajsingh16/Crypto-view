@@ -33,7 +33,7 @@ A modern cryptocurrency tracker built with React and Redux Toolkit, featuring re
 -> Getting Started
 
    Clone the repository
-   git clone https://github.com/dhanrajsingh16/Crypto-view
+   git clone https://github.com/dhanrajsingh16/Cryptoverse
 
    Install dependencies
    npm install
