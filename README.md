@@ -1,13 +1,65 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+Cryptoverse
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+-> Introduction
+A modern cryptocurrency tracker built with React and Redux Toolkit, featuring real-time price updates, charts, and search functionality.
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+-> Features
 
-By the end of this video, you will become the master of working with APIs.
+   Search and filter cryptocurrencies
+
+   Real-time price tracking with charts
+
+   Global crypto stats at a glance
+
+   State management with Redux Toolkit
+
+   Responsive UI with modern design
+
+   Tech Stack
+
+   React
+
+   Redux Toolkit
+
+   Axios
+
+   Chart.js / Recharts
+
+   TailwindCSS / CSS Modules
+
+-> Getting Started
+
+1. Clone the repository
+   git clone https://github.com/dhanrajsingh16/Crypto-view
+
+2. Install dependencies
+   npm install
+
+3. Add environment variables
+
+   Create a .env file in the root directory and add your crypto API key:
+
+   REACT_APP_CRYPTO_API_KEY=your_api_key_here
+
+4. Run the development server
+   npm start
+
+5. Build for production
+   npm run build
+
+-> Deployment
+
+   The app can be deployed easily on:
+
+   GitHub 
+
+-> Contributing
+
+   Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+   Author
+
+   Dhanraj Singh
